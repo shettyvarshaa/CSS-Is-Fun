@@ -1,6 +1,6 @@
 # CSS Is Fun
 
-### Yes! You heard it right CSS is awesome.
+### Yes! You heard it rigt CSS is awesome.
 
 That's great to hear! CSS is a powerful tool for designing and styling web pages this repository also contains UI snippets which are pre-built CSS code blocks that can be easily integrated into a website to add style and functionality.
 
